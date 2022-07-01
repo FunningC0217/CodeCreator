@@ -7,10 +7,10 @@ Debugger: debugging protocol (DAP) support.
 Collaboration tools: integrate SVN and Git
 
  
-## [Frame](./image/Frame.drawio.png)
+## ![Frame](image/Frame.drawio.png)
 
 
-## [Editor](./image/Editor.drawio.png)
+## ![Editor](image/Editor.drawio.png)
 
 
-## [Runtime](./image/Runtime.drawio.png)
+## ![Runtime](image/Runtime.drawio.png)
